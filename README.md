@@ -8,6 +8,7 @@ I'm also a **Student Helpdesk Technician**, where I get hands-on experience trou
 
 - **Languages:** Java, Python
 - **Frameworks & UI:** Django, JavaFX, FXML, CSS
+- **Databases:** MongoDB (integration in progress)
 - **Tools:** Git, GitHub, Maven, pytest, IntelliJ IDEA, VS Code
 - **Concepts:** Object-oriented programming, data structures and algorithms, recursion, API development, unit testing, and collaborative development
 
